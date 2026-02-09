@@ -142,3 +142,6 @@ Base URL: `https://demo-entanglement-distillation-qfhvrahfcq-uc.a.run.app`
 See `demo.ipynb` for comprehensive examples. For issues, check the game handbook or ask the organizers.
 
 Good luck!
+
+--- 
+_**For QC IITI**_
